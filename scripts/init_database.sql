@@ -45,3 +45,4 @@ GO
 
 create schema gold;
 GO
+    
